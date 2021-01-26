@@ -71,3 +71,12 @@ section {
   width: 900px;
   height: 300px;
 }
+
+main {
+  margin: 50px;
+  padding: 50px;
+  text-align: center;
+  border: dotted 1px green;
+  background: black;
+  color: white;
+}
